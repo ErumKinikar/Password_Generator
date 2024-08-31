@@ -1,7 +1,1 @@
-Install VS Code
-
-
-Install Extensions in VS Code (Python V3.12)
-
-
-Run code
+The Command-Line Password Generator in Python is a customizable tool that allows users to generate random passwords based on specific criteria. Users can define the length of the password and choose which character types to include, such as letters, numbers, and symbols. This flexibility enables the creation of strong, personalized passwords tailored to the user's security needs. The program is ideal for anyone looking to generate secure passwords directly from the command line.
